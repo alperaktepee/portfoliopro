@@ -72,10 +72,10 @@ export default function Resume(props) {
       subHeading: "React JS",
     },
     {
-      title: "Important Events in Atatürk's Life",
+      title: "Fingerprint Recognition with SVM",
       description:
-        "A chronology application I made to improve animation techniques in HTML, CSS and JavaScript.",
-      subHeading: "HTML, CSS, JavaScript",
+        "I developed a fingerprint recognition system developed with image processing and SVM algorithm. ",
+      subHeading: "MATLAB, Machine Learning",
     },
     {
       title: "Price Prediction For Distance",

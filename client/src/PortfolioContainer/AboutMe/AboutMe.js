@@ -13,7 +13,7 @@ export default function AboutMe(props) {
 
   const SCREEN_CONSTANTS = {
     description:
-      "I'm Alper Aktepe. I graduated from Kocaeli University Computer Engineering Department in 2022. In the process of improving myself in various fields of computer science, I decided that the areas I enjoyed most were the web, machine learning and image processing, and therefore I decided to develop myself more in this direction. As a front-end web developer and data scientist, my goal is to follow constantly developing technologies, work with quality teams in the React ecosystem and contribute to successful projects.",
+      "I'm Alper Aktepe. I graduated from Kocaeli University Computer Engineering Department in 2022. You can review my thesis by clicking the button below. In the process of improving myself in various fields of computer science, I decided that the areas I enjoyed most were the web, machine learning and image processing, and therefore I decided to develop myself more in this direction. As a front-end web developer and data scientist, my goal is to follow constantly developing technologies, work with quality teams in the React ecosystem and contribute to successful projects.",
     highlights: {
       bullets: [
         "Front-end Web Development",
@@ -50,8 +50,8 @@ export default function AboutMe(props) {
               {renderHighlight()}
             </div>
             <div className="about-me-options">
-              <a href="Alper Aktepe - CV.pdf" download="Alper Aktepe - CV.pdf">
-                <button className="btn highlighted-btn">View My Resume</button>
+              <a href="Alper Aktepe - CV.pdf" download="Alper Aktepe - Thesis.pdf">
+                <button className="btn highlighted-btn">View My Thesis</button>
               </a>
             </div>
           </div>
