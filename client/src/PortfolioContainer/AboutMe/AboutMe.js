@@ -50,7 +50,7 @@ export default function AboutMe(props) {
               {renderHighlight()}
             </div>
             <div className="about-me-options">
-              <a href="Alper Aktepe - CV.pdf" download="Alper Aktepe - Thesis.pdf">
+              <a href="Alper Aktepe - Thesis.pdf" download="Alper Aktepe - Thesis.pdf">
                 <button className="btn highlighted-btn">View My Thesis</button>
               </a>
             </div>
