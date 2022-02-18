@@ -78,10 +78,10 @@ export default function Resume(props) {
       subHeading: "MATLAB, Machine Learning",
     },
     {
-      title: "Price Prediction For Distance",
+      title: "Expense Application",
       description:
-        "A project created with the linear regression algorithm, which offers an estimated price according to the distance that bus companies can take as role models.",
-      subHeading: "Python, Machine Learning",
+        "A project created with React, which can storage and filter your added expenses.",
+      subHeading: "React JS",
     },
     // {
     //   title: "Maaş Tahmini",
